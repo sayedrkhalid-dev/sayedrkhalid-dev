@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Sayed R. Khalid (Al-amin) 👋</h1>
 <p align="center">
   <b>Frontend Developer</b> · Building clean, responsive UIs with React & Next.js<br/>
-  📍 Chittagong, Bangladesh  |  📧 <a href="mailto:your@email.com">your@email.com</a>
+  📍 Gazipur, Dhaka, Bangladesh  |  📧 <a href="sayedrkhalid.official@gmail.com">sayedrkhalid.official@gmail.com</a>
 </p>
 
 <br/>
@@ -16,7 +16,7 @@
 
 ## 🙋 About Me
 
-I'm a passionate **Frontend Developer** based in Chittagong, Bangladesh.  
+I'm a passionate **Frontend Developer** based in Gazipur, Dhaka, Bangladesh.  
 I love crafting pixel-perfect, user-friendly web experiences using modern tools like **React**, **Next.js**, and **Tailwind CSS**.  
 I'm constantly learning and enjoy turning complex problems into simple, beautiful interfaces.
 
@@ -71,13 +71,6 @@ I'm constantly learning and enjoy turning complex problems into simple, beautifu
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
 
 ---
 
