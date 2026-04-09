@@ -25,9 +25,9 @@
 
 ## 🔥 Current Activities
 
-- 🚀 Exploring **Next.js**
-- 💻 Building a **modern web application project**
-- 📚 Learning **Backend Development (Node.js & Express)**
+- 🚀 Exploring **Backend Development (Node.js & Express)**
+- 💻 Building a **Modern web application project**
+- 📚 Learning **Next.js** 
 - 🎯 Practicing **JavaScript problem solving**
 - 🛠️ Improving my **React skills**
 
