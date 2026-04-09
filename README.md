@@ -31,9 +31,9 @@
 
 ### ⚡ What I'm Doing Now
 
-- 🚀 Exploring **Next.js** and modern React patterns  
-- 💻 Building real-world projects like **DigiTools Platform**  
-- 📚 Learning **Backend Development (Node.js & Express)**  
+- 🚀 Exploring **Backend Development (Node.js & Express)**   
+- 💻 Building real-world projects like **Softy Pinko**  
+- 📚 Learning **Next.js** and modern React patterns 
 - 🎯 Practicing **JavaScript problem solving**  
 - 🔧 Improving code quality, structure, and best practices  
 
