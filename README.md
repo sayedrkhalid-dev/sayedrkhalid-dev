@@ -4,15 +4,23 @@
 </p>
 
 <!-- 👤 NAME & DESIGNATION -->
-<h1 align="center">Hi 👋, I'm Sayed R. Khalid</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Software Engineer</h3>
+<h3 align="center">Hi, I'm Sayed R. Khalid (Al-amin) 👋</h1>
+<p align="center">
+  <b>Frontend Developer</b>
+  | Gazipur, Dhaka, Bangladesh  |  <a href="mailto:sayedrkhalid.official@gmail.com">sayedrkhalid.official@gmail.com</a>
+</p>
 
----
+<br/>
 
 ## 🧠 About Me
 
-I’m a passionate developer focused on becoming a **Full-Stack Software Engineer**.  
-I love building modern web applications, learning new technologies, and improving my problem-solving skills every day.
+<p>
+  I’m a passionate developer focused on becoming a <b>**Full-Stack Developer**</b>.
+  I love building modern web applications, learning new technologies,
+  and improving my problem-solving skills every day.
+</p>
+
+<br/>
 
 ---
 
@@ -26,37 +34,42 @@ I love building modern web applications, learning new technologies, and improvin
 
 ---
 
+<br/>
+
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,git,github,vscode" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+<br/>
+
+### 🤝 Connect With Me
+
+I’m always open to discussing **front-end development**, **modern UI/UX design**, or potential collaborations on **Open Source projects**. Whether you have a project in mind or just want to talk shop, feel free to reach out!
+
+<br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="mailto:sayedrkhalid.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.tiktok.com/">
-    <img src="https://cdn.simpleicons.org/tiktok/white" height="40" />
+  <a href="https://github.com/sayedrkhalid-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.snapchat.com/">
-    <img src="https://cdn.simpleicons.org/snapchat/white" height="40" />
+  <a href="https://www.linkedin.com/in/sayed-r-khalid-al-amin-9461733b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/SayedRKhalid/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sayedrkhalid-dev/sayedrkhalid-dev/output/github-contribution-grid-snake.svg" />
-</p>
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -74,6 +87,25 @@ I love building modern web applications, learning new technologies, and improvin
 
 ---
 
+<br/>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedrkhalid-dev&theme=tokyo-night&hide_border=true" />
+</p>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sayedrkhalid-dev/sayedrkhalid-dev/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br/>
+
 <p align="center">
   💡 "Consistency over perfection — one commit at a time."
 </p>
+
