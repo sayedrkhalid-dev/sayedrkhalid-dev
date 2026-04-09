@@ -10,8 +10,6 @@
   | Gazipur, Dhaka, Bangladesh  |  <a href="mailto:sayedrkhalid.official@gmail.com">sayedrkhalid.official@gmail.com</a>
 </p>
 
-<br/>
-
 ## 🧠 About Me
 
 <p>
@@ -19,8 +17,6 @@
   I love building modern web applications, learning new technologies,
   and improving my problem-solving skills every day.
 </p>
-
-<br/>
 
 ---
 
@@ -34,8 +30,6 @@
 
 ---
 
-<br/>
-
 ## 🛠️ Skills
 
 <p align="center">
@@ -46,11 +40,29 @@
 
 <br/>
 
+## 🚀 Featured Work
+
+#### 💼 DigiTools Palform
+A premium digital tools hub with a responsive design and multiple service integrations.
+
+Teck Stack : **React • Tailwind**
+
+•🔗 [Live Demo](https://asgmt-6-digitools.netlify.app/)  
+• 💻 [Source Code](https://github.com/sayedrkhalid-dev/asgmt-6.git)
+
+#### 💼 Softy Pinko  
+Softy Pinko is a professional Bootstrap 4.0 theme designed by Template Mo for your company at absolutely free of charge.
+
+Teck Stack : **React • Tailwind**
+
+• 🔗 [Live Demo](https://softy-pinko-mauve.vercel.app/)  
+• 💻 [Source Code](https://github.com/sayedrkhalid-dev/softy-pinko.git)
+
+---
+
 ### 🤝 Connect With Me
 
 I’m always open to discussing **front-end development**, **modern UI/UX design**, or potential collaborations on **Open Source projects**. Whether you have a project in mind or just want to talk shop, feel free to reach out!
-
-<br/>
 
 <p align="center">
   <a href="mailto:sayedrkhalid.official@gmail.com">
@@ -69,8 +81,6 @@ I’m always open to discussing **front-end development**, **modern UI/UX design
 
 ---
 
-<br/>
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -87,23 +97,17 @@ I’m always open to discussing **front-end development**, **modern UI/UX design
 
 ---
 
-<br/>
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedrkhalid-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
-<br/>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sayedrkhalid-dev/sayedrkhalid-dev/output/github-contribution-grid-snake.svg" />
 </p>
-
-<br/>
 
 <p align="center">
   💡 "Consistency over perfection — one commit at a time."
