@@ -4,7 +4,9 @@
 </p>
 
 <!-- 👤 NAME & DESIGNATION -->
-<h3 align="center">Hi, I'm Sayed R. Khalid (Al-amin) 👋</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=I'm+Sayed+R.+Khalid+(Al-amin)+%F0%9F%91%8B;A+Front-End+Web+Developer" />
+</h3>
 <p align="center">
   <b> 👨🏻‍💼 Front-End Developer</b> | 
   🗺️ Gazipur, Dhaka, Bangladesh  | 
