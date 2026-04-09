@@ -1,7 +1,9 @@
 <!-- 🔥 BANNER -->
-<p align="center">
+![man-using-laptop-night-top-view-web-banner-with-copy-space](https://github.com/user-attachments/assets/7ab1bf80-1eed-475b-8407-458b868d6e12)
+
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Sayed%20R.%20Khalid&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+</p> -->
 
 <!-- 👤 NAME & DESIGNATION -->
 <h3 align="center">
