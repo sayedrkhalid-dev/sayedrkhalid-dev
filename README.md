@@ -6,8 +6,9 @@
 <!-- 👤 NAME & DESIGNATION -->
 <h3 align="center">Hi, I'm Sayed R. Khalid (Al-amin) 👋</h1>
 <p align="center">
-  <b>Frontend Developer</b>
-  | Gazipur, Dhaka, Bangladesh  |  <a href="mailto:sayedrkhalid.official@gmail.com">sayedrkhalid.official@gmail.com</a>
+  <b> 👨🏻‍💼 Front-End Developer</b> | 
+  🗺️ Gazipur, Dhaka, Bangladesh  | 
+  📧 <a href="mailto:sayedrkhalid.official@gmail.com"> sayedrkhalid.official@gmail.com</a>
 </p>
 
 ## 🧠 About Me
