@@ -1,10 +1,6 @@
 <!-- 🔥 BANNER -->
 ![man-using-laptop-night-top-view-web-banner-with-copy-space](https://github.com/user-attachments/assets/7ab1bf80-1eed-475b-8407-458b868d6e12)
 
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Sayed%20R.%20Khalid&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p> -->
-
 <!-- 👤 NAME & DESIGNATION -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=I'm+Sayed+R.+Khalid+(Al-amin)+%F0%9F%91%8B;A+Front-End+Web+Developer" />
@@ -15,23 +11,63 @@
   📧 <a href="mailto:sayedrkhalid.official@gmail.com"> sayedrkhalid.official@gmail.com</a>
 </p>
 
-## 🧠 About Me
+<br/>
 
-<p>
-  I’m a passionate developer focused on becoming a <b>**Full-Stack Developer**</b>.
-  I love building modern web applications, learning new technologies,
-  and improving my problem-solving skills every day.
+<p align="center">
+  👋 Hi, I'm <b>Sayed R. Khalid (Al-amin)</b> <br/>
+  🚀 Aspiring <b>Full-Stack Developer</b> from Bangladesh  
+</p>
+
+<p align="center">
+  I’m passionate about building modern, scalable web applications and turning ideas into real-world projects.  
+  I enjoy learning by doing — writing clean code, solving problems, and continuously improving my development skills.
+</p>
+
+<p align="center">
+  💡 I believe in <b>consistency over perfection</b> — improving every day, one commit at a time.
 </p>
 
 ---
 
-## 🔥 Current Activities
+### ⚡ What I'm Doing Now
 
-- 🚀 Exploring **Backend Development (Node.js & Express)**
-- 💻 Building a **Modern web application project**
-- 📚 Learning **Next.js** 
-- 🎯 Practicing **JavaScript problem solving**
-- 🛠️ Improving my **React skills**
+- 🚀 Exploring **Next.js** and modern React patterns  
+- 💻 Building real-world projects like **DigiTools Platform**  
+- 📚 Learning **Backend Development (Node.js & Express)**  
+- 🎯 Practicing **JavaScript problem solving**  
+- 🔧 Improving code quality, structure, and best practices  
+
+---
+
+## 🚀 Featured Work
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💼 DigiTools Platform  
+A premium digital tools hub with modern UI and responsive design  
+
+**🛠️ Tech:** React • Tailwind  
+
+🔗 <a href="https://asgmt-6-digitools.netlify.app/">Live Demo</a>  
+💻 <a href="https://github.com/sayedrkhalid-dev/asgmt-6.git">Source Code</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Softy Pinko  
+A clean and elegant business landing page with smooth UX  
+
+**🛠️ Tech:** HTML • CSS • JavaScript  
+
+🔗 <a href="https://softy-pinko-mauve.vercel.app/">Live Demo</a>  
+💻 <a href="https://github.com/sayedrkhalid-dev/softy-pinko.git">Source Code</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -40,28 +76,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,git,github,vscode" />
 </p>
-
----
-
-<br/>
-
-## 🚀 Featured Work
-
-#### 💼 DigiTools Palform
-A premium digital tools hub with a responsive design and multiple service integrations.
-
-Teck Stack : **React • Tailwind**
-
-•🔗 [Live Demo](https://asgmt-6-digitools.netlify.app/)  
-• 💻 [Source Code](https://github.com/sayedrkhalid-dev/asgmt-6.git)
-
-#### 💼 Softy Pinko  
-Softy Pinko is a professional Bootstrap 4.0 theme designed by Template Mo for your company at absolutely free of charge.
-
-Teck Stack : **React • Tailwind**
-
-• 🔗 [Live Demo](https://softy-pinko-mauve.vercel.app/)  
-• 💻 [Source Code](https://github.com/sayedrkhalid-dev/softy-pinko.git)
 
 ---
 
