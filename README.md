@@ -60,7 +60,7 @@ A premium digital tools hub with modern UI and responsive design
 ### 💼 Softy Pinko  
 A clean and elegant business landing page with smooth UX  
 
-**🛠️ Tech:** HTML • CSS • JavaScript  
+**🛠️ Tech:** React • Tailwind  
 
 🔗 <a href="https://softy-pinko-mauve.vercel.app/">Live Demo</a>  
 💻 <a href="https://github.com/sayedrkhalid-dev/softy-pinko.git">Source Code</a>
