@@ -103,15 +103,7 @@ I’m always open to discussing **front-end development**, **modern UI/UX design
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedrkhalid-dev&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedrkhalid-dev&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedrkhalid-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
