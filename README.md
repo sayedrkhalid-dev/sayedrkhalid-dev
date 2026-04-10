@@ -23,10 +23,6 @@
   I enjoy learning by doing — writing clean code, solving problems, and continuously improving my development skills.
 </p>
 
-<p align="center">
-  💡 I believe in <b>consistency over perfection</b> — improving every day, one commit at a time.
-</p>
-
 ---
 
 ### ⚡ What I'm Doing Now
@@ -103,15 +99,15 @@ I’m always open to discussing **front-end development**, **modern UI/UX design
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedrkhalid-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedrkhalid-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedrkhalid-dev&theme=tokyonight" />
+  <img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayedrkhalid-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedrkhalid-dev&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayedrkhalid-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
