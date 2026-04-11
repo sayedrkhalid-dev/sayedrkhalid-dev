@@ -99,15 +99,15 @@ I’m always open to discussing **front-end development**, **modern UI/UX design
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedrkhalid-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedrkhalid-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayedrkhalid-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayedrkhalid-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayedrkhalid-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayedrkhalid-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
