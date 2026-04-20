@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/github/stars/sayedrkhalid-dev?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github" alt="Stars" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge&logo=github" alt="Open Source Lover" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-blueviolet?style=for-the-badge&logo=vercel" alt="Available for Work" />
-</p>
-
 <br/>
 
 <p align="center">
