@@ -171,7 +171,7 @@ Responsive business landing page featuring reusable components and elegant UI.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayedrkhalid-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedrkhalid-dev&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=sayedrkhalid-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
