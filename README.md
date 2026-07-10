@@ -32,7 +32,7 @@
 
 I'm a **Full-Stack Developer** passionate about building modern, responsive, and robust web applications from front to back.
 
-I specialize in the **MERN stack**, building dynamic frontends with **React & Next.js** while designing efficient backend architectures with **Node.js, Express.js, and MongoDB**. I love strengthening my software engineering fundamentals through real-world projects and consistent problem solving.
+I specialize in the **MERN stack**, building dynamic frontends with **React & Next.js** while designing efficient backend architectures with **Node.js, Express.js, and MongoDB**. I love strengthening my software engineering fundamentals through real-world projects and consistent problem-solving.
 
 ---
 
@@ -167,15 +167,22 @@ Responsive business landing page featuring reusable components and elegant UI.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayedrkhalid-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=sayedrkhalid-dev&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayedrkhalid-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=sayedrkhalid-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayedrkhalid-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayedrkhalid-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://leetcard.jacoblin.cool/sayedrkhalid-dev?theme=dark&font=Karma&ext=contest&border=0" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sayedrkhalid-dev/">
+    <img src="https://img.shields.io/badge/View%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
